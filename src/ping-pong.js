@@ -11,4 +11,5 @@ export function pingPong(goal) {
             output.push(i);
         }
     }
+    return output;
 }

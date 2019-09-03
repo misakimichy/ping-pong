@@ -1,4 +1,5 @@
 import { pingPong } from './ping-pong';
+import $ from 'jquery';
 import './styles.css';
 
 $(document).ready(function() {
